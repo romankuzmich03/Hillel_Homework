@@ -1,4 +1,4 @@
-numbers = [12, 3, 4, 10, 125, 1, 23, 4]
+numbers = [12, 3, 4, 10, 125, 1, 23, 4, 598]
 
 if len(numbers) > 1:
     last_element = numbers.pop()
